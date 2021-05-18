@@ -14,3 +14,7 @@ Python, TypeScript (Node.js)
 1. Next.js (React)
 2. TypeGraphQL (GraphQL)
 3. TypeORM (PostgreSQL)
+
+## 参考文献
+
+- [试析中文分词国家规范](https://wenku.baidu.com/view/ecf162db6f1aff00bed51ee6.html)
